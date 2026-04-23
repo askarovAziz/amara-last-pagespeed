@@ -5254,6 +5254,14 @@ body[data-theme='light'] .blog-quote-text {
   color: var(--color-primary);
 }
 
+.legal-section-block .faq-question-title {
+  font-family: var(--font-serif);
+  font-size: 28px;
+  font-weight: 400;
+  margin-bottom: 20px;
+  color: var(--color-primary);
+}
+
 .legal-section-block h3 {
   font-size: 18px;
   font-weight: 500;
